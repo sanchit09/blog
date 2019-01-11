@@ -1,22 +1,22 @@
 # Site settings
-title: Blog Red Ciudadana
-email: info@redciudadana.org
+title: Sanchit's Blog 
+email: sanchit.agrawal@gmail.com
 description: > # Writer Theme is a responsive template
- Somos una organización sin fines de lucro, creada con la misión de incentivar la participación y auditoría ciudadana.
+Sanchit is a seasoned architect
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.redciudadana.org/" # the base hostname & protocol for your site
+url: "http://www.sanchitagrawal.com/" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 nav_list:
-  Home : ['Inicio', '/', 'fa-home']
-  About : ['Acerca', '/about', 'fa-anchor']
-  About : ['Red Ciudadana', 'http://www.redciudadana.org/', 'fa-user']
-  Author : ['Author', '/author/julio', 'fa-user']
-  Contact : ['Contacto', '/contact', 'fa-plane']
+  Home : ['Home', '/', 'fa-home']
+  About : ['About', '/about', 'fa-anchor']
+  About : ['Sanchit Agrawal', 'http://www.sanchitagrawal.com/', 'fa-user']
+  Author : ['Author', '/author/sanchit', 'fa-user']
+  Contact : ['Contact', '/contact', 'fa-plane']
 single_footer: '<p>The writer community loves your content. Writer &copy; 2016 <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
-    Writer: ['Writer 2016', '/about']
+ #   Writer: ['Writer 2016', '/about']
 
 
 # Build settings
