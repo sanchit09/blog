@@ -2,7 +2,7 @@
 title: Sanchit's Blog 
 email: sanchit.agrawal@gmail.com
 description: > # Writer Theme is a responsive template
-Sanchit is a seasoned architect
+ Sanchit is a seasoned architect
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.sanchitagrawal.com/" # the base hostname & protocol for your site
 enable_retina: false
