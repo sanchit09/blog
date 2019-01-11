@@ -13,11 +13,9 @@ nav_list:
   About : ['Sanchit Agrawal', 'http://www.sanchitagrawal.com/', 'fa-user']
   Author : ['Author', '/author/sanchit', 'fa-user']
   Contact : ['Contact', '/contact', 'fa-plane']
-single_footer: '<p>The writer community loves your content. Writer &copy; 2016 <a href="/">latest posts</a></p>'
+single_footer: '<p>Keep on Rocking in the free world<a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
- #   Writer: ['Writer 2016', '/about']
-
 
 # Build settings
 # markdown: kramdown

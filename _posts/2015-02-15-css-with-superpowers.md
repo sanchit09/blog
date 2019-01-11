@@ -3,9 +3,9 @@ layout: post-sidebar
 title: "CSS with Superpowers"
 date: 2015-02-11 08:50:28
 categories: coding css
-author_name : Michelle Jones
-author_url : /author/michelle
-author_avatar: michelle
+author_name : Sanchit Agrawal 
+author_url : /author/sanchit
+author_avatar: sanchit_1
 show_avatar : true
 read_time : 34
 feature_image: feature-fire
@@ -29,5 +29,3 @@ Sass is actively supported and developed by a consortium of several tech compani
 ## Frameworks
 There are endless number of frameworks built with Sass. Compass, Bourbon, and Susy just to name a few.
 
-
-Dreamcatcher cold-pressed American Apparel, post-ironic Carles Shoreditch craft beer Banksy PBR retro distillery before they sold out freegan asymmetrical kogi. Food truck Schlitz direct trade, deep v ethical yr sriracha mumblecore freegan. Tattooed occupy pork belly, letterpress typewriter cold-pressed viral swag farm-to-table flexitarian. +1 hashtag put a bird on it authentic. 3 wolf moon locavore Vice, normcore actually meggings leggings cornhole brunch. Four loko vinyl trust fund, Intelligentsia wolf Bushwick lo-fi sriracha. Deep v vegan forage selvage.

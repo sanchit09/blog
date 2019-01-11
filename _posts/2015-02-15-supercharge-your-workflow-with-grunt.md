@@ -2,11 +2,11 @@
 layout: post
 date: 2015-02-11 08:50:28
 categories: coding js
-author_name : Dan Robberts
-author_url : /author/dan
-author_avatar: dan
+author_name : Sanchit Agrawal
+author_url : /author/sanchit
+author_avatar: sanchit_1
 show_avatar : true
-read_time : 34
+read_time : 3
 feature_image: feature-laptop
 show_related_posts: true
 square_related: recommend-laptop
