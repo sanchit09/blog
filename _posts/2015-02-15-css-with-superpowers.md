@@ -2,7 +2,7 @@
 layout: post-sidebar
 title: "CSS with Superpowers"
 date: 2015-02-11 08:50:28
-categories: coding css
+categories: coding Linux
 author_name : Sanchit Agrawal 
 author_url : /author/sanchit
 author_avatar: sanchit_3
