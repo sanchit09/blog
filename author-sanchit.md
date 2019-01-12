@@ -3,7 +3,7 @@ layout: author
 title: Author
 permalink: author/sanchit/
 feature_image: feature-plantpot
-author_avatar: sanchit
+author_avatar: sanchit_3
 author_name: Sanchit Agrawal
 title: Sanchit Agrawal
 ---
