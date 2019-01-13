@@ -6,9 +6,82 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Jan 2019 00:53:00 +0530</pubDate>
-    <lastBuildDate>Sun, 13 Jan 2019 00:53:00 +0530</lastBuildDate>
+    <pubDate>Sun, 13 Jan 2019 23:59:35 +0530</pubDate>
+    <lastBuildDate>Sun, 13 Jan 2019 23:59:35 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Microservices for a Beginner</title>
+        <description>&lt;p&gt;Sass is completely compatible with all versions of CSS. We take this compatibility seriously, so that you can seamlessly use any available CSS libraries.&lt;/p&gt;
+
+&lt;p&gt;Sass boasts more features and abilities than any other CSS extension language out there. The Sass Core Team has worked endlessly to not only keep up, but stay ahead.&lt;/p&gt;
+
+&lt;h2 id=&quot;mature&quot;&gt;Mature&lt;/h2&gt;
+&lt;p&gt;Sass has been actively supported for about 8 years by its loving Core&lt;/p&gt;
+
+&lt;h2 id=&quot;team&quot;&gt;Team&lt;/h2&gt;
+&lt;p&gt;Over and over again, the industry is choosing Sass as the premier CSS extension language.&lt;/p&gt;
+
+&lt;h2 id=&quot;large-community&quot;&gt;Large Community&lt;/h2&gt;
+&lt;p&gt;Sass is actively supported and developed by a consortium of several tech companies and hundreds of developers.&lt;/p&gt;
+
+&lt;h2 id=&quot;frameworks&quot;&gt;Frameworks&lt;/h2&gt;
+&lt;p&gt;There are endless number of frameworks built with Sass. Compass, Bourbon, and Susy just to name a few.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 13 Jan 2019 14:20:28 +0530</pubDate>
+        <link>http://localhost:4000/microservices-for-beginner</link>
+        <guid isPermaLink="true">http://localhost:4000/microservices-for-beginner</guid>
+        
+        
+        <category>microservices</category>
+        
+      </item>
+    
+      <item>
+        <title>Devops for a Beginner</title>
+        <description>&lt;p&gt;Sass is completely compatible with all versions of CSS. We take this compatibility seriously, so that you can seamlessly use any available CSS libraries.&lt;/p&gt;
+
+&lt;p&gt;Sass boasts more features and abilities than any other CSS extension language out there. The Sass Core Team has worked endlessly to not only keep up, but stay ahead.&lt;/p&gt;
+
+&lt;h2 id=&quot;mature&quot;&gt;Mature&lt;/h2&gt;
+&lt;p&gt;Sass has been actively supported for about 8 years by its loving Core&lt;/p&gt;
+
+&lt;h2 id=&quot;team&quot;&gt;Team&lt;/h2&gt;
+&lt;p&gt;Over and over again, the industry is choosing Sass as the premier CSS extension language.&lt;/p&gt;
+
+&lt;h2 id=&quot;large-community&quot;&gt;Large Community&lt;/h2&gt;
+&lt;p&gt;Sass is actively supported and developed by a consortium of several tech companies and hundreds of developers.&lt;/p&gt;
+
+&lt;h2 id=&quot;frameworks&quot;&gt;Frameworks&lt;/h2&gt;
+&lt;p&gt;There are endless number of frameworks built with Sass. Compass, Bourbon, and Susy just to name a few.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 13 Jan 2019 14:20:28 +0530</pubDate>
+        <link>http://localhost:4000/devops-for-a-beginner</link>
+        <guid isPermaLink="true">http://localhost:4000/devops-for-a-beginner</guid>
+        
+        
+        <category>dev-ops</category>
+        
+      </item>
+    
+      <item>
+        <title>Understanding big data for beginner</title>
+        <description>&lt;p&gt;If you always do what you’ve always done, you’ll always get what you’ve always had.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Want shows up in what you say, expectation shows up in behaviour&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 13 Jan 2019 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/big-data-for-a-beginner</link>
+        <guid isPermaLink="true">http://localhost:4000/big-data-for-a-beginner</guid>
+        
+        
+        <category>big-data</category>
+        
+      </item>
     
       <item>
         <title>Supercharge Your Workflow With Grunt</title>
@@ -42,8 +115,6 @@
         
         <category>coding</category>
         
-        <category>js</category>
-        
       </item>
     
       <item>
@@ -72,7 +143,7 @@
         
         <category>coding</category>
         
-        <category>css</category>
+        <category>Linux</category>
         
       </item>
     

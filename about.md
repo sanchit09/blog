@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Sanchit Agrawal 
+title: Technical Cravings 
 permalink: /about/
 feature_image: feature-book
 ---
-This is the blog of Sanchit Agrawal. His areas of interests include exploring new technologies and reading non-fictional books and swimming.
+The idea of this blog to keep a diary of notes from my learnings from which others can learn from.
 
-He loves to spend time with his wife and little kid
+Being a person with multiple areas of interest in Computer Science, Mathematics, Philosophy and Pyschology,
+it promises to provide with something interesting and thought provoking to read.
+
+Hope this blog contributes back to the community from which I learnt all.

@@ -4,6 +4,7 @@ email: sanchit.agrawal@gmail.com
 description: > # Writer Theme is a responsive template
  Sanchit is a seasoned architect
 baseurl: "" # the subpath of your site, e.g. /blog
+plugins: ['jekyll-twitter-plugin']
 url: "http://www.sanchitagrawal.com/" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
@@ -13,7 +14,7 @@ nav_list:
   About : ['Sanchit Agrawal', 'http://www.sanchitagrawal.com/', 'fa-user']
   Author : ['Author', '/author/sanchit', 'fa-user']
   Contact : ['Contact', '/contact', 'fa-plane']
-single_footer: '<p>Keep on Rocking in the free world<a href="/">latest posts</a></p>'
+single_footer: '<p>Keep on Rocking in the free world \m/ <a href="/">latest posts</a></p>'
 footer_links:
     About: ['About', '/about']
 

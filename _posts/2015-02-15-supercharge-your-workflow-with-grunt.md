@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-02-11 08:50:28
-categories: coding js
+categories: coding
 author_name : Sanchit Agrawal
 author_url : /author/sanchit
 author_avatar: sanchit_2
