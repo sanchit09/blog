@@ -18,7 +18,10 @@ Technical Architect with speciality in building Highly Scalable, Distributed Sys
 Have expertise in multiple fileds like Big Data, Data Analytics, IOT
 
 Hands-on architect covering breadth of technologies while also looking deep into some
+
 Adept at managing all aspects in agile development lifecycle - planning, risk mitigation, change management, continuous operations, QA and delivery
+
 Brings years of technical expertise in enterprise applications and team management skills
+
 Experience in quantifying, measuring and optimizing NFRs
 
