@@ -1,3 +1,6 @@
 _site/*
 _sass-cache/*
 hidden/*
+.jekyll-cache/
+_includes/*
+_sass/*
